@@ -19,7 +19,15 @@ header h1 {
   background: transparent;
 }
 
+footer h7 {
+  font-weight: bold;
+}
+
 .cim {
+  text-align: center;
+}
+
+.en {
   text-align: center;
 }
 
@@ -50,6 +58,22 @@ p {
   margin: 20px;
   border: 2px solid white;
 }
+
+.szigethalom {
+    float: left;
+    width: 55%;
+    margin: 20px;
+    border: 2px solid white;
+}
+
+
+.szabika {
+  float: center;
+  width: 30%;
+  margin: 20px;
+  border: 2px solid white;
+}
+
 
 div h3 {
   text-align: center;
